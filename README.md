@@ -149,3 +149,5 @@ Download: https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-desktop-amd64.iso
 
 ### Ubuntu Server 23.10
 Download: https://releases.ubuntu.com/23.10/ubuntu-23.10-live-server-amd64.iso
+
+# File Size: Around 25.5 Billion Bytes
